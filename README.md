@@ -29,3 +29,7 @@ The results of the sales analysis are presented in bike_Sales.xlsx and the bike 
 
 Conclusion
 This project demonstrates how SQL, Excel, and Tableau can be used together to analyze and visualize bike sales data, and gain insights into business performance. The methods and techniques used in this project can be applied to other business domains and datasets.
+
+
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/68631162/235086689-66d861f9-cfdb-4547-b492-bdc82f0d9acc.png)
+
