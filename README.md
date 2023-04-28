@@ -2,7 +2,7 @@
 This project analyzes sales data from the AdventureWorks sample database using SQL, Excel, and Tableau, and creates a dashboard for the bike sales data.
 
 Overview
-T In this project, we use SQL queries to extract data on bike sales from the AdventureWorks database, analyze it in Excel, and create a dashboard in Tableau.
+In this project, we use SQL queries to extract data on bike sales from the AdventureWorks database, analyze it in Excel, and create a dashboard in Tableau.
 
 Contents
 The project contains the following files:
@@ -10,6 +10,8 @@ The project contains the following files:
 bike_sales.sql: contains the SQL queries used to extract the bike sales data from the AdventureWorks database.
 bike_Sales.xlsx: contains the Excel spreadsheet used to analyze the bike sales data.
 bike sales.twb: contains the Tableau workbook used to create the bike sales dashboard.
+
+
 Getting Started
 To run this project on your local machine, you'll need the following software:
 
