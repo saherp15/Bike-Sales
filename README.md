@@ -9,7 +9,7 @@ The project contains the following files:
 
 bike_sales.sql: contains the SQL queries used to extract the bike sales data from the AdventureWorks database. <br>
 bike_Sales.xlsx: contains the Excel spreadsheet used to analyze the bike sales data.<br>
-bike sales.twbx: contains the Tableau workbook used to create the bike sales dashboard.<br>
+bike sales.twbx: contains the Tableau packaged workbook used to create the bike sales dashboard.<br>
 
 
 Getting Started
