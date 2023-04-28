@@ -18,7 +18,7 @@ Microsoft Excel
 Tableau Desktop
 To set up the project, follow these steps:
 
-Download the sample database from https://tinyurl.com/48kz7494 and install it on your local SQL server.
+Download the sample database from [bike database](https://www.dropbox.com/s/gvuexwfkfi1py29/SQL-Server-Sample-Database%20%282%29.zip?dl=0) and install it on your local SQL server.
 Open bike_sales.sql in SQL Server Management Studio and execute the queries to extract the necessary bike sales data.
 Open bike_Sales.xlsx in Microsoft Excel and import the bike sales data from the SQL queries.
 Analyze the data in Excel and create any necessary charts or graphs.
